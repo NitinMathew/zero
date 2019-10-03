@@ -1,0 +1,7 @@
+
+*****************************************************************************
+Zero by Nitin
+First update the firmware using "setupupdatefirmware1.sh"
+
+Then to setup as otg and usb attack platform use "setupOTG2.sh"
+*****************************************************************************
