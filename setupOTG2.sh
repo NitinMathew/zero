@@ -18,4 +18,4 @@ mv hid.sh /home/pi/
 
 #rc.local entry
 mv /etc/rc.local /etc/rc.local.tmp
-mv rcentry/rc.local /etc/rc.local
+mv rc.local /etc/rc.local
