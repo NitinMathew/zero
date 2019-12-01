@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Starting installation
+echo "Starting installation"
 sudo apt-get update
 sudo apt-get upgrade
 
